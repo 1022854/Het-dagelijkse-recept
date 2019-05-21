@@ -48,8 +48,7 @@
           dan 06 32167211.
         </p>
       </section>
-      <a href="order.php"><img src="assets/actie.jpg" class="promo"></a>
-      </div>
+    
       <?php include "footer.html"; ?>
    </body>
 </html>
