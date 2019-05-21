@@ -56,9 +56,9 @@ header .logo {
   width: 72px;
   height: 72px;
 
-  margin: 0 8px;
-
-  background-image: url(assets/logo-medium.svg);
+  margin: 0 10px;
+  margin-right: 10px;
+  background-image: url(assets/Logo.png);
   background-size: cover;
 }
 
@@ -330,7 +330,7 @@ footer {
 /* #region Mobile */
 @media only screen and (max-width: 400px) {
   header .logo {
-    background-image: url(assets/logo-small.svg);
+    background-image:url(assets/Logo.png) ;
   }
 
   .footer-grid {
