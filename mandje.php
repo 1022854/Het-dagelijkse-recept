@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<?php
+if(empty($_POST["product"])){ 
+    die("wajoneffowathackjemij");
+
+}
+    $strand=$_POST["product"];
+
+?>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -10,10 +19,10 @@
   <body>
     <?php include "header.html"; ?>
     <div class="splash">
-      <a href="doos.php">Dagelijkse Recepten!<div class="cart-icon"></div></a>
+   
     </div>
     <section>
-      <h2>Welkom bij het Dagelijks-Recept!</h2>
+      <h2><?php echo $strand?></h2>
         <p>
           Via onze website kunt u online uw bestelling plaatsen. Deze kunt u aan
           de deur of online betalen.

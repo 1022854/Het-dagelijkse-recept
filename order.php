@@ -1,6 +1,6 @@
 <?php
 require "menu.php";
-require "orders.php";
+//require "orders.php";
 require "cart.php";
 
 $menu = fetch_menu();

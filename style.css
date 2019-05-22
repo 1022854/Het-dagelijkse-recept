@@ -53,13 +53,14 @@ header .container {
 }
 
 header .logo {
-  width: 72px;
+  width: 92px;
   height: 72px;
 
   margin: 0 10px;
   margin-right: 10px;
   background-image: url(assets/Logo.png);
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 header .logo-text {
@@ -327,18 +328,4 @@ footer {
 }
 /* #endregion */
 
-/* #region Mobile */
-@media only screen and (max-width: 400px) {
-  header .logo {
-    background-image:url(assets/Logo.png) ;
-  }
 
-  .footer-grid {
-    grid-template-columns: 1fr;
-  }
-
-  footer {
-    height: 560px;
-  }
-}
-/* #endregion */
