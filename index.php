@@ -10,7 +10,7 @@
   <body>
     <?php include "header.html"; ?>
     <div class="splash">
-      <a href="order.php">Dagelijkse Doos!<div class="cart-icon"></div></a>
+      <a href="order.php">Dagelijkse Recepten!<div class="cart-icon"></div></a>
     </div>
     <section>
       <h2>Welkom bij het Dagelijks-Recept!</h2>
