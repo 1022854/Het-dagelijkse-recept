@@ -55,57 +55,64 @@
             <div>
                   <div id="modalbw">
                        <br>
-                       <h1 id=modalbwkop>  Bereidings weizen</h1>
+                       <h1 id="modalbwkop">  Bereidings weizen</h1>
                        <br>
-                       <br>
+                 
                        <p id="moadalbwtxt">
-                              SkunkGanngg PPBBBb. <br>
-                              Verhit een scheutje olie in de paellapan en fruit de fijngehakte ui, rode peper en knoflook aan.<br> 
-                              Voeg de chorizo in kleine stukjes toe. Snijd de kippendijen in stukjes en bak deze gaar in dezelfde pan. <br>
-                              Voeg ondertussen ook de paprika in blokjes en het paprikapoeder toe. <br>
-                              Roer de paellarijst er door en voeg de warme saffraan bouillon er aan toe en roer ook het blikje tomatenpuree er door.<br><br>
-                          
-                              Laat de rijst ongeveer 20 minuten gaar pruttelen en schep af en toe om.<br><br> 
-                              Voeg de laatste 3 minuten de doperwten toe. Bak de gamba’s een paar minuten in een koekenpan.<br> 
-                              Als al het vocht is opgenomen door de rijst en de rijst gaar is leg de gamba’s er bovenop samen met de partjes citroen.<br> 
-                              Mocht je geen paella rijst kunnen vinden, dan kun je ook risottorijst gebruiken<br>
+                             
+                       Snijd de ui in halve ringen en de knoflook fijn Verhit de olie in de hapjespan en fruit de ui 1 min.<br>
+                        Voeg de kip en 1 el picadillo toe en bak 6 min. op middelhoog vuur. Schep regelmatig om.<br><br>
+                        Laat ondertussen de mais uitlekken. <br>
+                        Meng de crème fraîche met de rest van de picadillo. <br>
+                        Verwarm de tortilla’s volgens de aanwijzingen op de verpakking.<br><br>
+                        Besmeer de tortilla’s met de crème fraîche. <br>
+                        Verdeel de sla, mais en kipblokjes erover en rol op.<br>
                        </p>
                   </div>
                   <div id="modalinh">
                        <br>
                        <h1 id="moadalinhkop">  Inhoud</h1>
                        <br>
-                       <br>
+                     
                        <p id="moadalinhtxt">
-                              – 100 gram paellarijst<br>
-                              – paellakruiden<br>
-                              – vis en kippenbouillon<br>
-                              – 2 kipkluifjes<br>
-                              – tomatenblokjes met knoflook<br>
-                              – 1 sjalot<br>
-                              – 1 grote teen knoflook<br>
-                              – 3 snijbonen<br>
-                              – reepjes geroosterde paprika<br>
-                              – een schaaltje gemengde zeevruchten<br>
-                              – 3 grote garnalen
+                              – 1 ui<br>
+                              – 1 teen knoflook <br>
+                              – 2 el (arachide)olie<br>
+                              – 350 g kipfiletblokjes<br>
+                              – 1½ el Euroma Original Spices<br>
+                              – 150 g Bonduelle crispy mais<br>
+                              – 200 g crème fraîche<br>
+                              – 4 tortilla's <br>
+                              – 300 g salademix<br>
+                              
                       </p>
                   </div>
-                  <div id="bestelbut">
-                          <form method="post" action="mandje.php">
-                              <input type="hidden" name="product" value="Wraps">
-                              <button type="submit">Continue</button>
-                          </form>
-                      </div>
+
+
+
+              
+                          
+     
+
+
+
+
                   <div id="modalom">
                        <br>   
                        <h1 id="modalomkop">  omschrijving</h1>
                        <br>
-                       <br>
-                       <img id=modalomimg src="1er0QIte.jpeg">
+                      
+                       <img id=modalomimg src="assets/wraps.jpg">
                        <p id="modalomtxt">
                               Paella is een oorspronkelijk Valenciaans en tegenwoordig typisch Spaans gerecht
                       </p>
-        </div>        
+        </div>    
+        
+                           <form method="post" action="mandje.php">
+                              <input type="hidden" name="product" value="Wraps">
+                              <button id="butcust" type="submit">Continue</button>
+                          </form>
+
         </div>
         </div>  
       </div>
@@ -123,55 +130,71 @@
                        <br>
                        <h1 id=modalbwkop>  Bereidings weizen</h1>
                        <br>
-                       <br>
+                     
                        <p id="moadalbwtxt">
-                              Skoetnoen <br>
-                              Verhit een scheutje olie in de paellapan en fruit de fijngehakte ui, rode peper en knoflook aan.<br> 
-                              Voeg de chorizo in kleine stukjes toe. Snijd de kippendijen in stukjes en bak deze gaar in dezelfde pan. <br>
-                              Voeg ondertussen ook de paprika in blokjes en het paprikapoeder toe. <br>
-                              Roer de paellarijst er door en voeg de warme saffraan bouillon er aan toe en roer ook het blikje tomatenpuree er door.<br><br>
-                          
-                              Laat de rijst ongeveer 20 minuten gaar pruttelen en schep af en toe om.<br><br> 
-                              Voeg de laatste 3 minuten de doperwten toe. Bak de gamba’s een paar minuten in een koekenpan.<br> 
-                              Als al het vocht is opgenomen door de rijst en de rijst gaar is leg de gamba’s er bovenop samen met de partjes citroen.<br> 
-                              Mocht je geen paella rijst kunnen vinden, dan kun je ook risottorijst gebruiken<br>
+                              
+                       Verhit de olie met de boter in een pan.<br> 
+                       Voeg de gesnipperde ui, peen (in plakjes) en bleekselderij (in boogjes) toe en bak 5 min. <br>
+                       Voeg het gehakt toe en bak het rul en bruin.<br><br>
+
+
+                       Roer de bouillon, tomatenblokjes en tomatenpuree erdoor. <br>
+                       Breng op smaak met peper en zout. <br>
+                       Laat de saus met de deksel op de pan 30 min. <br>
+                       op laag vuur sudderen. Roer af en toe.<br><br>
+
+                       Kook ondertussen de spaghetti volgens de aanwijzingen op de verpakking.<br> 
+                       Verdeel de spaghetti over de borden en schep de saus erover.<br> 
+
+
+
+
+
+
+
+
                        </p>
                   </div>
                   <div id="modalinh">
                        <br>
                        <h1 id="moadalinhkop">  Inhoud</h1>
                        <br>
-                       <br>
+                 
                        <p id="moadalinhtxt">
-                              – 100 gram paellarijst<br>
-                              – paellakruiden<br>
-                              – vis en kippenbouillon<br>
-                              – 2 kipkluifjes<br>
-                              – tomatenblokjes met knoflook<br>
-                              – 1 sjalot<br>
-                              – 1 grote teen knoflook<br>
-                              – 3 snijbonen<br>
-                              – reepjes geroosterde paprika<br>
-                              – een schaaltje gemengde zeevruchten<br>
-                              – 3 grote garnalen
+                              – ½ ui<br>
+                              – 125 g winterpeen<br>
+                              – ½ stengel bleekselderij<br>
+                              – 1 el milde olijfolie<br>
+                              – 12½ g ongezouten roomboter<br>
+                              – 225 g mager rundergehakt<br>
+                              – 3 el runderbouillon (tablet)<br>
+                              – 400 g tomatenblokjes (blik)<br>
+                              – ½ el tomatenpuree<br>
+                              – 150 g spaghetti<br>
+                              
                       </p>
                   </div>
                   <div id="bestelbut">
-                          <form method="post" action="mandje.php">
-                          <input type="hidden" name="product" value="Spaghetti">
-                              <button type="submit">Continue</button>
-                          </form>
+                          
                       </div>
                   <div id="modalom">
                        <br>   
                        <h1 id="modalomkop">  omschrijving</h1>
                        <br>
-                       <br>
-                       <img id=modalomimg src="1er0QIte.jpeg">
+               
+                       <img id=modalomimg src="assets/spaghetti.jpeg">
                        <p id="modalomtxt">
                               Paella is een oorspronkelijk Valenciaans en tegenwoordig typisch Spaans gerecht
                       </p>
-        </div>        
+        </div>    
+        
+                          <form method="post" action="mandje.php">
+                          <input type="hidden" name="product" value="Spaghetti">
+                          <button id="butcust" type="submit">Continue</button>
+                          </form>
+
+
+
         </div>
         </div>  
       </div>
@@ -188,9 +211,9 @@
                        <br>
                        <h1 id=modalbwkop>  Bereidings weizen</h1>
                        <br>
-                       <br>
+                      
                        <p id="moadalbwtxt">
-                              Verwarm de gangsters zijn bouillon in een pan en voeg de saffraan toe. <br>
+                              Verwarm de  bouillon in een pan en voeg de saffraan toe. <br>
                               Verhit een scheutje olie in de paellapan en fruit de fijngehakte ui, rode peper en knoflook aan.<br> 
                               Voeg de chorizo in kleine stukjes toe. Snijd de kippendijen in stukjes en bak deze gaar in dezelfde pan. <br>
                               Voeg ondertussen ook de paprika in blokjes en het paprikapoeder toe. <br>
@@ -199,14 +222,16 @@
                               Laat de rijst ongeveer 20 minuten gaar pruttelen en schep af en toe om.<br><br> 
                               Voeg de laatste 3 minuten de doperwten toe. Bak de gamba’s een paar minuten in een koekenpan.<br> 
                               Als al het vocht is opgenomen door de rijst en de rijst gaar is leg de gamba’s er bovenop samen met de partjes citroen.<br> 
-                              Mocht je geen paella rijst kunnen vinden, dan kun je ook risottorijst gebruiken<br>
+                              
                        </p>
+                       <br>
+                       <br>
                   </div>
                   <div id="modalinh">
                        <br>
                        <h1 id="moadalinhkop">  Inhoud</h1>
                        <br>
-                       <br>
+                      
                        <p id="moadalinhtxt">
                               – 100 gram paellarijst<br>
                               – paellakruiden<br>
@@ -220,23 +245,45 @@
                               – een schaaltje gemengde zeevruchten<br>
                               – 3 grote garnalen
                       </p>
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+                      <br>
                   </div>
-                  <div id="bestelbut">
-                          <form method="post" action="mandje.php">
-                          <input type="hidden" name="product" value="Paella">
-                              <button type="submit">Continue</button>
-                          </form>
-                      </div>
+
+
+
+
+
+                  
+
+
+
+
                   <div id="modalom">
                        <br>   
                        <h1 id="modalomkop">  omschrijving</h1>
                        <br>
-                       <br>
-                       <img id=modalomimg src="1er0QIte.jpeg">
+                      
+                      <img id=modalomimg src="assets/splash.jpg">
                        <p id="modalomtxt">
                               Paella is een oorspronkelijk Valenciaans en tegenwoordig typisch Spaans gerecht
                       </p>
-        </div>        
+                      <br>
+                      <br>
+                            </div>    
+        
+                           
+                          <form method="post" action="mandje.php">
+                          <input type="hidden" name="product" value="Paella">
+                              <button id="butcust" type="submit">Bestel Hier !!!</button>
+                          </form>
+                     
+
+
+
+
         </div>
         </div>  
       </div>
